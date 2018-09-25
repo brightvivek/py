@@ -1,9 +1,9 @@
-a=input("enter the number")
-b=input("enter the number")
-c=input("enter the number")
-if(a>b):
-    print(a)
-elif(c>a):
-    print(c)
+d=input("enter the number")
+e=input("enter the number")
+f=input("enter the number")
+if(d>e):
+    print(d)
+elif(f>d):
+    print(f)
 else:
-    print(b)
+    print(e)
