@@ -1,4 +1,4 @@
-print("CHECK WHETHER A NUMBER IS PALINDROME OR NOT")
+print("enter the number")
 N=int(input("NUMBER="))
 if(N<=1000):
  t=N
