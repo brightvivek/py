@@ -4,7 +4,7 @@ def fib(n):
 	else :
 		return fib(n-1)+fib(n-2)
 try:
-	n=int(input('Enter n :'))
+	n=int(input('Enter n :'));
 	sum=0
 	for i in range(0,n):
 		print(fib(i));
