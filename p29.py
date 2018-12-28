@@ -5,4 +5,4 @@ try:
 		sum+=i
 	print(sum)
 except:
-	print('invalid')
+	print('invalid');
