@@ -7,5 +7,4 @@ def main():
 		x=x^y
 		print(x,y);
 	except:
-		print('invalid');
-main()
+		print('invalid);
