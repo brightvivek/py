@@ -7,5 +7,5 @@ def main():
 		y=t
 		print(x,y)
 	except:
-		print('invalid')
+		print('invalid');
 main()
