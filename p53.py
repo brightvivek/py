@@ -5,6 +5,6 @@ try:
 		rem=n%10
 		sum+=rem
 		n=n//10
-	print(sum)
-except:
-	print('invalid')
+	print(sum);
+except
+	print('invalid');
